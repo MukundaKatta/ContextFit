@@ -1,6 +1,6 @@
 # ContextFit — Context window packing optimizer — maximize LLM context utilization with greedy, priority, and balanced strategies
 
-Context window packing optimizer — maximize LLM context utilization with greedy, priority, and balanced strategies. ContextFit gives you a focused, inspectable implementation of that idea.
+Context window packing optimizer — maximize LLM context utilization with greedy, priority, and balanced strategies.
 
 ## Why ContextFit
 
